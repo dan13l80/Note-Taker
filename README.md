@@ -20,10 +20,5 @@
     The application can be accessed in your browser when you enter this into your address bar:
         localhost:3000
 
-## Mockup   
-![An mockup example of the Note Taker application]
-(./public/assets/images/demo1.png)
-(./public/assets/images/demo2.png)
-
 ## Live Link
 https://note-taker-nov21.herokuapp.com/notes
