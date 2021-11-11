@@ -17,9 +17,9 @@
 
 ## Usage
     After the dependencies are installed, you can then run the back end with the following command in terminal:
-        node server.js
+    node server.js
     The application can be accessed in your browser when you enter this into your address bar:
-        localhost:3000
+    localhost:3000
 
 ## Screenshot
     The following image shows the web Weather dashboard appearance and functionality:
