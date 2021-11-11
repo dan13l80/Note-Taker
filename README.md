@@ -5,6 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 
 ## Description:
     Note Taker that can be used to write and save notes. 
@@ -19,6 +20,11 @@
         node server.js
     The application can be accessed in your browser when you enter this into your address bar:
         localhost:3000
+
+## Screenshot
+    The following image shows the web Weather dashboard appearance and functionality:
+![Mockup Image](public/assets/images/demo1.png)
+![Mockup Image](public/assets/images/demo2.png)
 
 ## Live Link
 https://note-taker-nov21.herokuapp.com/notes
